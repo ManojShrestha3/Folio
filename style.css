@@ -144,4 +144,29 @@ max-width: 600px;
     text-decoration: none;
 
 }
+.mart h1{
+    color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+}
+.mart h2  {
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 20px;
+}
+.mart p{
+    color: aquamarine;
+    font-style: italic;
+    font-weight: 200;
 
+}
+.mart1 h2{
+    color: cornflowerblue;
+    font-size: xx-large;
+}
+.mart1 li{
+    color: beige;
+}
