@@ -170,3 +170,34 @@ max-width: 600px;
 .mart1 li{
     color: beige;
 }
+.list > ol > li > a{
+    color: seashell;
+    margin: 20px;
+    padding: 20px;
+}
+
+.work p{
+    color: blanchedalmond;
+    margin: 20px;
+    
+}
+.work h1{
+    font-size: 50px;
+    color: aqua;
+    text-align: center;
+    font-style: italic;
+    font-weight: 100;
+
+}
+@media(max-width:400px){
+ .navbar a {
+        width: 100%;
+        color: red;
+        font-size: 16px;
+        display: flex;
+       
+    }
+}
+
+   
+    
