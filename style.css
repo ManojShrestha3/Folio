@@ -193,11 +193,51 @@ max-width: 600px;
  .navbar a {
         width: 100%;
         color: red;
-        font-size: 16px;
+        font-size: 12px;
         display: flex;
        
     }
 }
+.demo h1{
+    color:aquamarine;
+    font-size: 50px;
+    margin-left: 10px;
+}
+.demo p{
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 10px;
+}
 
+.demo1 h2{
+    color:mediumspringgreen;
+    font-size: 50px;
+    margin-left: 10px;
+}
+.demo1 p{
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.demo2 h2{
+    color:aquamarine;
+    font-size: 50px;
+    margin-left: 10px;
+}
+.demo2 p{
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.demo3 h2{
+    color:aquamarine;
+    font-size: 50px;
+    margin-left: 10px;
+}
+.demo3 p{
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 10px;
+}
    
     
